@@ -1,3 +1,2 @@
-# Bogdan first script
-name <- "Bogdan"
-name
+x <- 1:10
+mean(x)

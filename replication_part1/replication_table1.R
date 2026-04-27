@@ -1,6 +1,6 @@
 # "Do Populist Parties Increase Voter Turnout? Evidence From Over 40 Years of Electoral History in 31 European Democracies"
 # Arndt Leininger and Maurits J Meijers
-# PS 546 Replication (Replicating Table 1 in R from the authors' Stata code)
+# PS 546 Replication (Replicating Table 1)
 # Bogdan Petric
 
 install.packages("fixest")
